@@ -1,3 +1,7 @@
 .header__title {
   font-size: 30px;
 }
+.header__subtitle {
+  font-size: 20px;
+  color: cornflowerblue;
+}
